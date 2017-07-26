@@ -1,7 +1,8 @@
 # Geoneo
 A Location - Aware Webservice using Google Maps API and Google Places API which detects the user’s current location and displays the places according to user's needs within the specified radius.
 
-#Prerequisites
+# Prerequisites
+#
 1.Open SDK Manager.
 #
 2.Install Google Play Services.
@@ -12,7 +13,7 @@ A Location - Aware Webservice using Google Maps API and Google Places API which 
 #
 5.Use the keys in your application.
 
-#How to use the Application
+# How to use the Application
 1.Install the Application.
 #
 2.Go to Settings -> Enable Location Services for Cellular Networks(Not GPS).
